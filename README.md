@@ -1,8 +1,8 @@
-# WSD / AWDD Portfolio
+# Level 5 Portfolio
 
-## Template 
+## Working with the template 
 
-- We give them a template web site for the team (site)
+- We give you a template web site for the team (site)
 - The template contains `index.html` and `portfolio.html`
 - They are required to add content to the homepage
 - They are required to add CSS to the site (homepage and portfolio)
