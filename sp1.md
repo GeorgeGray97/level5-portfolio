@@ -2,7 +2,7 @@
 
 **Deadline: [date]**
 
-Download - [SP1 Marksheet](raw/master/support/sp1-marksheet.docx) 
+Download - [SP1 Marksheet](../../raw/master/support/sp1-marksheet.docx) 
 
 ## Developing an idea
 
