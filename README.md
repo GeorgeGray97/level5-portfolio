@@ -86,6 +86,8 @@ Each week your team will attended a sprint meeting with tutors to discuss your p
 
 As well as building a web site you are creating a portfolio of evidence. Each of these element's has its own brief.
 
- ## Marksheet
+ ## Briefs &amp; Marksheets
 
- Using the marksheet for each submission point in conjunction with the client brief will help ensure that you are delivering the required elements at each stage. Ask to avoid confusion.
+ Using the briefs and mark sheets for each submission point in conjunction with this client brief will help ensure that you are delivering the required elements at each stage. 
+ 
+ Any questions? Ask the tutors at your next sprint meeting. Decide if it is it a question for the tutor or a question for the client.
