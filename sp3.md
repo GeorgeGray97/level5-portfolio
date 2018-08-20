@@ -2,8 +2,8 @@
 
 **SP3 Presentation: [date]**
 
-- Download - [SP3 Marksheet](support/sp3-marksheet.docx)
-- Use the [SP3 presentation template](templates/template_sp3_presentation.pptx) for your pitch. 
+- Download - [SP3 Marksheet](raw/master/support/sp3-marksheet.docx)
+- Use the [SP3 presentation template](raw/master/templates/template_sp3_presentation.pptx) for your pitch. 
 
 ## Design and branding
 
@@ -19,7 +19,7 @@ The actual building process of your site will be both speedier and easier if you
     
 Create a a team repository for all the site content. Set up a procedure for proofing copy and optimising media.
     
-You are required to use the [Content Schedule template document](templates/template_content_schedule.docx).
+You are required to use the [Content Schedule template document](raw/master/templates/template_content_schedule.docx).
     
 ### Output
 
@@ -97,7 +97,7 @@ You know what a style guide is. You know how to create one.
     
 Now create a style guide for the project web site - the Guide. Use colour, typography and media that best represents the brand of your guide (not your team).
     
-Obviously this guide should be different to the guide for your team web site. Use the same [template style_guide.html](templates/template_style_guide.zip).
+Obviously this guide should be different to the guide for your team web site. Use the same [template style_guide.html](raw/master/templates/template_style_guide.zip).
     
 ### Output
 
@@ -127,7 +127,7 @@ We are reviewing and providing feedback on the Content Delivery Schedule, your m
 
 For SP3 we are marking the delivery and content of your presentation.
 
-- Use the [SP3 presentation template document](templates/template_sp3_presentation.pptx). 
+- Use the [SP3 presentation template document](raw/master/templates/template_sp3_presentation.pptx). 
 - Add your team branding to the slides. Format - pptx file. Filename - sp3_presentation.pptx. Save to the `docs` folder and submit via Moodle.
 
 ### Marks
