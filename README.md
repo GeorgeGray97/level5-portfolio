@@ -70,8 +70,22 @@ You will develop an initial idea for your 'guide' in the early stages of the pro
 
 ## Required practices
 
- All coding and implementation must follow the [Required Practices for Web Development](http://bit.ly/mmu-web-required) document.
+ All coding and implementation must follow our [Required Practices for Web Development](http://bit.ly/mmu-web-required) document.
+
+## Submission Points
+
+Tutors will guide each team through the web development process via a number of submission points.
+
+- **SP1** - Team website.
+- **SP2** - Research phase.
+- **SP3** - Design&amp; testing.
+- **SP4** - Build &amp; testing.
+- **SP5** - The Guide &amp; Portfolio completed.
+
+Each week your team will attended a sprint meeting with tutors to discuss your progress, address issues and answer questions.
+
+As well as building a web site you are creating a portfolio of evidence. Each of these element's has its own brief.
 
  ## Marksheet
 
- Using the [Marksheet for the Guide](#) in conjunction with the client brief will help ensure that you are delivering the required elements.
+ Using the marksheet for each submission point in conjunction with the client brief will help ensure that you are delivering the required elements at each stage. Ask to avoid confusion.
