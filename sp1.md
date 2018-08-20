@@ -2,7 +2,7 @@
 
 **Deadline: [date]**
 
-Download - [SP1 Marksheet](../support/sp1-marksheet.docx) 
+Download - [SP1 Marksheet](support/sp1-marksheet.docx) 
 
 ## Developing an idea
 
@@ -36,7 +36,7 @@ Scan any resulting documents (photograph if too big) and save as a single pdf fi
 
 ## The brief - User Research
     
-User Research - Undertake some initial user research with friends, family and fellow students to better understand what people would want from the guide you are proposing. Use the [BBC User Research template](../templates/template_user_research.docx) document.
+User Research - Undertake some initial user research with friends, family and fellow students to better understand what people would want from the guide you are proposing. Use the [BBC User Research template](templates/template_user_research.docx) document.
     
 Each team member should develop 4 or 5 user profiles. Note - these are not Personas (developed later). These should be based on real people.
 
@@ -52,7 +52,7 @@ Save as a single docx file. Filename - `user_research.docx`. Save to the `docs` 
 
 ## The brief - Proposal
     
-Project Proposal - Using your ideas and research you are required to create a Proposal (1000 words) that provides brief details of the web site you plan to construct. The client briefing and user research will help inform this document. Use the [Proposal template document](../templates/template_proposal.docx) provided.
+Project Proposal - Using your ideas and research you are required to create a Proposal (1000 words) that provides brief details of the web site you plan to construct. The client briefing and user research will help inform this document. Use the [Proposal template document](templates/template_proposal.docx) provided.
     
 ### Output
 
@@ -74,7 +74,7 @@ The tutors will award a team mark for the project that will be given to each tea
     
 All groups must complete and submit the peer assessment documentation even if the marks are not going to be adjusted.
     
-Use the [peer assessment template document](../templates/template_peer_assessment.docx).
+Use the [peer assessment template document](templates/template_peer_assessment.docx).
     
 ### Output
 
@@ -95,7 +95,7 @@ A style guide documents the visual language, such as header styles and colour pa
     
 ### What to do
 
-Create a team style guide - your colours, media and typography for this site - Use the [template style_guide.html](../templates/template_style_guide.zip).
+Create a team style guide - your colours, media and typography for this site - Use the [template style_guide.html](templates/template_style_guide.zip).
     
 ### Output
 
@@ -157,7 +157,7 @@ They are marked on the final submission (SP5). This iterative feedback allows yo
 
 ## SP1 - What are we marking?
 
-For SP1 we are marking your `Team Website` and [Team style guide](../teamstyles/team_style_guide.html).
+For SP1 we are marking your `Team Website` and `Team style guide`.
 
 ## Marks
 

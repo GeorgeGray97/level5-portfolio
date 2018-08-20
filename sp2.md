@@ -2,8 +2,8 @@
 
 **SP2 Presentation: [date]**
 
-- Download - [SP2 Marksheet](../support/sp2-marksheet.docx)
-- Use the [SP2 presentation template](../templates/template_sp2_presentation.pptx) for your pitch.
+- Download - [SP2 Marksheet](support/sp2-marksheet.docx)
+- Use the [SP2 presentation template](templates/template_sp2_presentation.pptx) for your pitch.
 
 ## Who is visiting your site?
 
@@ -17,7 +17,7 @@ You will learn about and use a variety of tools and techniques in your research.
     
 Competitor Analysis Report - As a team, you are required to review 3 web sites that are similar to the type of site you are building – a guide. These sites may be local, UK-based or overseas (if relevant).
     
-You could for example look at any direct, local competitor guides, guides for other cities, examples of good guides (on any topic), and perhaps like guides that are part of larger sites. Avoid Trip Advisor. Analyse the 3 sites using the criteria on the [Competitor Analysis template](../templates/template_competitor_analysis.docx) provided.
+You could for example look at any direct, local competitor guides, guides for other cities, examples of good guides (on any topic), and perhaps like guides that are part of larger sites. Avoid Trip Advisor. Analyse the 3 sites using the criteria on the [Competitor Analysis template](templates/template_competitor_analysis.docx) provided.
     
 ### Output
 
@@ -47,7 +47,7 @@ Format - pdf file. Filename - `personas.pdf`. Save to the `docs` folder.
     
 User Journey Mapping - Develop a user journey for each persona. Explore what type of interaction(s) these users might typically have with the site. Read the article [When and How to Create Customer Journey Maps](https://www.nngroup.com/articles/customer-journey-mapping/).
     
-Use the [User Journey template document](../templates/template_user_journey.pptx) we have created from [Paul Boag's article](https://boagworld.com/usability/customer-journey-mapping/).
+Use the [User Journey template document](templates/template_user_journey.pptx) we have created from [Paul Boag's article](https://boagworld.com/usability/customer-journey-mapping/).
     
 ### Output
 
@@ -63,7 +63,7 @@ Information Architecture Report - The team must carry out and record an open car
     
 Write a short (500 words) illustrated report on the process and results.
     
-Use the [report template document](../templates/template_ia_report.docx).
+Use the [report template document](templates/template_ia_report.docx).
     
 ### Output
 
@@ -105,7 +105,7 @@ Format - xlsx file. Filename - `tree_jack.xlsx`. Save to the `docs` folder.
     
 Site Plan - This is an illustration of your recommended architecture for the new site based on the findings of your card sorting exercise. You MUST use the formatting illustrated in class. By the end of the project you may have a number of iterations of this plan due to changes as you progress with the project.
     
-Use the [site plan template document](../templates/template_site_plan.pptx).
+Use the [site plan template document](templates/template_site_plan.pptx).
     
 You can use the tools in PowerPoint to create a simple tree structure.
     
@@ -125,9 +125,7 @@ SP2 presentation slides
 
 ### Submission
 
-SP2 PowerPoint slides submitted via this page by the deadline (using the link below). 
-
-[Download our PowerPoint presentation for SP2](../docs/sp2_presentation.pptx)
+SP2 PowerPoint slides submitted to Moodle by the deadline.
 
 **Bring a printed copy of your Competitor Analysis to the presentation.**
 
@@ -141,10 +139,10 @@ For SP2 we are marking the delivery and content of your presentation.
 
 ### Practicalities
 
-- Use the [SP2 presentation template document](../templates/template_sp2_presentation.pptx). 
+- Use the [SP2 presentation template document](templates/template_sp2_presentation.pptx). 
 - Add your team branding to the slides. 
 
-- Format - pptx file. Filename - `sp2_presentation.pptx`. Save to the `docs` folder.
+- Format - pptx file. Filename - `sp2_presentation.pptx`. Save to the `docs` folder and submit via Moodle.
 
 ### Marks
 

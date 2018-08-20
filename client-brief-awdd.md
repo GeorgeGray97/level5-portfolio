@@ -32,7 +32,7 @@ You will develop an initial idea for your 'guide' in the early stages of the pro
 
 -  The site should be highly usable, following the design for all ethos.
 
-- Accessibility - Conformance to Web Content Accessibility Guidelines (WCAG) 2.0. See the accompanying [WCAG checklist](../support/WCAG2_checklist.pdf) and [checklist support](../support/WCAG2_checklist_support.doc) documents (SP5).
+- Accessibility - Conformance to Web Content Accessibility Guidelines (WCAG) 2.0. See the accompanying [WCAG checklist](support/WCAG2_checklist.pdf) and [checklist support](support/WCAG2_checklist_support.doc) documents (SP5).
 
 - SEO (Search Engine Optimization) - all pages should have relevant titles and meta descriptions for good SEO. All written content should be written with SEO in mind (use of keywords, link text etc.).
 

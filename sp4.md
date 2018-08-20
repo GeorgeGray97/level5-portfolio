@@ -4,7 +4,7 @@
 
 *All group members are required to be present*.
 
-Download - [SP4 Marksheet](../support/sp4-marksheet.docx) 
+Download - [SP4 Marksheet](support/sp4-marksheet.docx) 
 
 
 ## Usability Testing
@@ -25,9 +25,9 @@ Feedback from someone outside of your team can be invaluable to improve your wor
     
 ### Essential Documents
     
-- [Usability Test Instructions](../support/sp4_usability_test_instructions.docx).
+- [Usability Test Instructions](support/sp4_usability_test_instructions.docx).
     
-- [Usability Test tips & advice](../support/sp4_usability_testing_tips.docx).
+- [Usability Test tips & advice](support/sp4_usability_testing_tips.docx).
     
 ### On the day
     
@@ -66,7 +66,7 @@ Your script should contain the following elements. These will be discussed in cl
 1.  Thank you
 1.  ‘We have an exit survey’
     
-Use the [test script template document](../templates/template_test_script.docx). Amend and print for the test session.
+Use the [test script template document](templates/template_test_script.docx). Amend and print for the test session.
     
 ### Output
 
@@ -80,7 +80,7 @@ Format - docx file. Filename - `test_script.docx`. Save to the `docs` folder.
 
 Customise the consent form (provided) for your test candidate to sign. This should include permission to record the session including video, audio and their actions on screen.
 
-Use the [consent form template document](../templates/template_consent_form.docx). Amend and print for the test session.
+Use the [consent form template document](templates/template_consent_form.docx). Amend and print for the test session.
 
 Submit a scanned (PDF) of the signed form.
 
@@ -100,7 +100,7 @@ During the test session one or more members of the group should be taking notes.
     
 1. Write up a summary of these notes using MSWord.
     
-1. Use the [report template document](../templates/template_test_notes.docx).
+1. Use the [report template document](templates/template_test_notes.docx).
     
 ### Output
 
@@ -126,7 +126,7 @@ Using the template provided list the key issues identified by the test session (
     
 List any remedial actions required.
     
-Use the [report template document](../templates/template_test_conclusions.docx).
+Use the [report template document](templates/template_test_conclusions.docx).
     
 ### Output
 

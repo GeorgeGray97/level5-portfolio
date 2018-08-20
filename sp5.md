@@ -6,11 +6,11 @@
 
 1. **Your guide** - the project web site.
 
-    -  [Download - SP5 - The Guide - Marksheet](../support/sp2-guide-marksheet.docx)
+    -  [Download - SP5 - The Guide - Marksheet](support/sp2-guide-marksheet.docx)
 
 1. **Team website** - including all linked documents (final versions). 
 
-    - [Download - SP5 The Team Website - Marksheet](../support/sp2-portfolio-marksheet.docx) 
+    - [Download - SP5 The Team Website - Marksheet](support/sp2-portfolio-marksheet.docx) 
 
 ## Testing the site to ensure quality
 
@@ -27,11 +27,11 @@ The WebAIM WCAG 2 checklist helps you undertake an audit of your site’s access
     
 Three documents are provided.
     
-- Use the [WebAIM WCAG 2 checklist](../support/WCAG2_checklist.pdf) to assess your site. Print a copy and tick or cross relevant boxes.
+- Use the [WebAIM WCAG 2 checklist](https://webaim.org/standards/wcag/WCAG2Checklist.pdf) to assess your site. Print a copy and tick or cross relevant boxes.
     
-- Use the [WebAIM WCAG 2 support document](../support/WCAG2_checklist_support.docx) to help you understand the checklist and what is relevant to your project.
+- Use the [WebAIM WCAG 2 support document](support/WCAG2_checklist_support.docx) to help you understand the checklist and what is relevant to your project.
     
-- Use the [WCAG comments document](../templates/template_WCAG2_comments.docx) to record any issues addressed and actions taken. This document provides tutors with an insight into how you have managed the audit.
+- Use the [WCAG comments document](templates/template_WCAG2_comments.docx) to record any issues addressed and actions taken. This document provides tutors with an insight into how you have managed the audit.
 
 ### Core accessibility issues for your submission:
     
@@ -57,7 +57,7 @@ Copy the screenshots to the template provided and add comments regarding any fin
 
 Illustrate any corrections - if you've spotted an error, fix it, re-test, screenshot, comment.
     
-Use the [browser testing template document](../templates/template_browser_testing.docx).
+Use the [browser testing template document](templates/template_browser_testing.docx).
     
 ### Output
 
@@ -73,7 +73,7 @@ Discuss and provide evidence of any further test sessions.
 
 500 words (+/- 10%).
     
-Use the [usability report template document](../templates/template_usability_report.docx).
+Use the [usability report template document](templates/template_usability_report.docx).
     
 ### Output
 
@@ -89,7 +89,7 @@ We would like you to run your site through google translate (using the chrome br
     
 Put together a short report with screenshots (250 words) of three translated versions of the homepage and an inner page of your site, and talk about any issues you found as a result.
     
-Use the [report template document](../templates/template_internationalisation.docx).
+Use the [report template document](templates/template_internationalisation.docx).
     
 ### Output
 
@@ -114,7 +114,7 @@ Validate and audit your CSS (looking for unused, redundant CSS)
     
 Develop a short report using selected screenshots to provide evidence. Discuss any issues discovered and how they were tackled.
     
-Use the [report template document](../templates/template_quality_audit.docx).
+Use the [report template document](templates/template_quality_audit.docx).
     
 ### Output
 
@@ -144,7 +144,7 @@ Sprint sheets are used to record three things:
     
 Most weeks tutors will review your sprint sheets as part of the sprint meeting. We will review the previous sprint sheet - did you achieve what you planned to do? We will discuss the new sprint sheet - what are you planning to do?
     
-Use the [Sprint sheet template document](../templates/template_sprint_sheets.docx).
+Use the [Sprint sheet template document](templates/template_sprint_sheets.docx).
     
 ### Output
 
@@ -160,7 +160,7 @@ As this statement is personal you are not required to display this as part of th
     
 500 words (+/- 10%).
     
-Use the [template document for your individual statement](../templates/template_individual_statement.docx).
+Use the [template document for your individual statement](templates/template_individual_statement.docx).
     
 ### Output
 
