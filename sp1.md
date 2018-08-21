@@ -50,7 +50,11 @@ Save as a single docx file. Filename - `user_research.docx`. Save to the `docs` 
 
 ## The brief - Proposal
     
-Project Proposal - Using your ideas and research you are required to create a Proposal (1000 words) that provides brief details of the web site you plan to construct. The client briefing and user research will help inform this document. Use the [Proposal template document](../../raw/master/templates/template_proposal.docx) provided.
+Project Proposal - You are required to create a Proposal (1000 words) that provides brief details of the web site you plan to construct. The client briefing and user research will help inform this document. 
+
+The proposal becomes an agreement between your team and the client about vision and direction of the Guide.
+ 
+Use the [Proposal template document](../../raw/master/templates/template_proposal.docx) provided.
     
 ### Output
 
