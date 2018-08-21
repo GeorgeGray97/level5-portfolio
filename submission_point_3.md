@@ -47,7 +47,7 @@ For this submission add all of your mood boards to a single PDF file.
 
 Format - pdf file. Filename - `mood_board.pdf`. Save to the `docs` folder.
 
-*Your moodboard will be reviewed as part of the SP2 Presentation. It is marked at SP5.*
+*Your moodboards will be reviewed as part of the SP2 Presentation. They are marked at SP5.*
 
 ---
 
@@ -64,11 +64,11 @@ This technique involves each team member creating an initial design for your gro
 1. Each team member must work independently on his/her own design concept for your website. Your design may address issues such as layout, space, form, colour, typography whilst always considering usability and accessibility. Consider your design from a ‘mobile first’ perspective.
 1. Your design concept can be created as hi-fi or low-fi using the various techniques explained in class. These techniques include a composition (comp) created in Photoshop, a low-fi HTML/CSS wireframe (perhaps using a grid system) or a mock-up using Axure or Balsamiq etc. You can use [dummy text and images](https://contentsnare.com/dummy-text-image-generators/) as placeholders.  
 
-        Tip: Be creative, but keep it realistic. After all, you’ve got to build this at some point. It also has to be both accessible and useable.
+**Tip:** *Be creative, but keep it realistic. After all, you’ve got to build this at some point. It also has to be both accessible and useable*.
 
 1. Once completed the team should get together and share their design concepts and other ideas. Following this meeting each member should review his/her own design to make amendments and improvements.
 1. The team should then meet for a final time to agree which elements from the individual designs will be used to create the team's _final design_.
-1. The last task for the team is to create a _final design_ (mobile and desktop).
+1. The last task for the team is to create a _final design_ (mobile and desktop). This is the design you intend to take forward into the build process.
     
 ### Try this on your final design
     
