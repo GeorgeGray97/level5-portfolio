@@ -4,7 +4,7 @@
 
 ## The Final Submission includes:
 
-    SP5 is the final submission. Your completed Guide website plus your portfolio of evidence developed over the previous submission points.
+*SP5 is the final submission. Your completed Guide website plus your portfolio of evidence developed over the previous submission points*.
 
 1. **Your guide** - the project web site.
 

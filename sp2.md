@@ -9,7 +9,7 @@
 
 You will learn about and use a variety of tools and techniques in your research.
 
-    SP2 includes analysing competitors, creating personas (to represent your users), the user journeys these personas would take and the development of an information architecture, resulting in a site plan.
+*SP2 includes analysing competitors, creating personas (to represent your users), the user journeys these personas would take and the development of an information architecture, resulting in a site plan*.
 
 ---
     

@@ -11,7 +11,7 @@ Download - [SP4 Marksheet](../../raw/master/support/sp4-marksheet.docx)
 
 Now you have the beginnings of a website, you need to test it to uncover your assumptions and errors, leaving you enough time to fix and improve your prototype.
 
-    SP4 is an observed usability testing session. The documentation (the files listed below) including the script, consent form, notes, video and conclusions should be in place for SP5.
+*SP4 is an observed usability testing session. The documentation (the files listed below) including the script, consent form, notes, video and conclusions should be in place for SP5*.
 
 ## The brief - Usability testing session
     

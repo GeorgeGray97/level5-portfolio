@@ -6,7 +6,7 @@ Download - [SP1 Marksheet](../../raw/master/support/sp1-marksheet.docx)
 
 Before you start creating a website, you need to have thought about why the website needs to exist. What problem is it solving? Who will use it? What jobs do those users want to do?
 
-    Submission Point 1 (SP1) includes developing this team website (plus style guide), your initial ideas for the project, user research and the team proposal for the client.
+*Submission Point 1 (SP1) includes developing this team website (plus style guide), your initial ideas for the project, user research and the team proposal for the client*.
 
 ---
 
