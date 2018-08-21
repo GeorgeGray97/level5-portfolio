@@ -97,11 +97,11 @@ A style guide documents the visual language, such as header styles and colour pa
     
 ### What to do
 
-Create a team style guide - your colours, media and typography for this site - Use the [template style_guide.html](../../raw/master/templates/template_style_guide.zip).
+Create a style guide for the team website - your colours, media and typography for this site - Use the [template style_guide.html](../../raw/master/templates/template_style_guide.zip).
     
 ### Output
 
-Format - html file. Filename - `team_style_guide.html`. Save the relevant files to the `teamstyles` folder on the root of your site.
+Format - html file. Filename - `team_style_guide.html`. Save the relevant files to the `teamstyles` folder on the root of your team website.
     
 *The team style guide is marked at SP1 - see marksheet*
 
