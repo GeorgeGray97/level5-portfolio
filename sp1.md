@@ -53,7 +53,7 @@ Save as a single docx file. Filename - `user_research.docx`. Save to the `docs` 
 Project Proposal - You are required to create a Proposal (1000 words) that provides brief details of the web site you plan to construct. The client briefing and user research will help inform this document. 
 
 The proposal becomes an agreement between your team and the client about vision and direction of the Guide.
- 
+
 Use the [Proposal template document](../../raw/master/templates/template_proposal.docx) provided.
     
 ### Output
@@ -80,7 +80,7 @@ Use the [peer assessment template document](../../raw/master/templates/template_
     
 ### Output
 
-For **SP1** complete the forms *as if* you are going to share the marks equally. If things go wrong during the project, you can update this file for SP5. Discuss changes with tutors.
+For **SP1** download and review the forms . You will be required to print, complete, sign and scan the documents for SP5.
 
 Format - docx file. Filename - `peer_assessment.docx`. Save to the `docs` folder.
 
