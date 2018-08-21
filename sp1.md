@@ -109,7 +109,7 @@ Format - html file. Filename - `team_style_guide.html`. Save the relevant files 
 
 ## The brief - SP1 Team Website
 
-Using the [Team Website html template](#) you are tasked to create a site that reflects the personality of the team and is used as a vehicle to deliver the required documents for each submission point.
+Using the [Team Website html template](../../raw/master/templates/template_team_website.zip) you are tasked to create a site that reflects the personality of the team and is used as a vehicle to deliver the required documents for each submission point.
 
 ### Required elements
 
