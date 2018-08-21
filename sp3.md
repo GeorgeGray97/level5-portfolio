@@ -7,9 +7,9 @@
 
 ## Design and branding
 
-From your research you can now begin using the tools of design and colour to help communicate the content of your site to your audience. These documents show how you have reached your final design.
+From your research you can now begin using the tools of design and colour to help communicate the content of your site to your audience. These documents show how you have reached your final design. 
 
-*SP3 includes development of a content delivery schedule (to map the content you are going to need), mood boards, prototypes and wireframes. The final element is another style guide - this time for the project site you are building for the client.*
+        SP3 includes development of a content delivery schedule (to map the content you are going to need), mood boards, prototypes and wireframes. The final element is another style guide - this time for the project site you are building for the client.
 
 ## The brief - Content Delivery Schedule
     
