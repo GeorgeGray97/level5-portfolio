@@ -39,13 +39,13 @@ We prefer you to be creative and develop your own personas over using a template
 
 Format - pdf file. Filename - `personas.pdf`. Save to the `docs` folder.
 
-*Your personas will be reviewed as part of the SP2 Presentation. It is marked at SP5.*
+*Your personas will be reviewed as part of the SP2 Presentation. They are marked at SP5.*
 
 ---
 
 ## The brief - User Journeys
     
-User Journey Mapping - Develop a user journey for each persona. Explore what type of interaction(s) these users might typically have with the site. Read the article [When and How to Create Customer Journey Maps](https://www.nngroup.com/articles/customer-journey-mapping/).
+User Journey Mapping - **Develop a user journey for each persona**. Explore what type of interaction(s) these users might typically have with the site. Read the article [When and How to Create Customer Journey Maps](https://www.nngroup.com/articles/customer-journey-mapping/).
     
 Use the [User Journey template document](../../raw/master/templates/template_user_journey.pptx) we have created from [Paul Boag's article](https://boagworld.com/usability/customer-journey-mapping/).
     
@@ -53,7 +53,7 @@ Use the [User Journey template document](../../raw/master/templates/template_use
 
 Format - docx file. Filename - `user_journey.docx`. Save to the `docs` folder.
 
-*A sample user journey will be reviewed as part of the SP2 Presentation. It is marked at SP5.*
+*A sample user journey will be reviewed as part of the SP2 Presentation. They all are marked at SP5.*
 
 ---
     
