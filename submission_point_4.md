@@ -19,7 +19,7 @@ Now you have the beginnings of a website, you need to test it to uncover your as
     
 ### About
     
-    Submission point 4 is a chance for your group to conduct a usability testing session under instruction. You will be required to attend your designated session fully prepared as instructed.
+Submission Point 4 is a chance for your group to conduct a usability testing session under instruction. You will be required to attend your designated session fully prepared as instructed.
     
 You have now reached the stage where you have a basic design, content and structure for your group’s web site. The group is now required to carry out a recorded Usability Testing session. This is a chance to test out your design on a ‘user’ and to get feedback on the success or failures of your current version.
 
@@ -45,7 +45,7 @@ Your web site needs to be accessible on the web, ready to test.
     
 ### Assessment
     
-You will be assessed on your preparation and execution of the usability testing session (as per the marking schedule). A tutor will support you.
+You will be assessed on your preparation and execution of the usability testing session (as per the [marking schedule](../../raw/master/support/sp4-marksheet.docx) ). A tutor will support you.
     
 ### Marks
     
@@ -94,7 +94,7 @@ Format - docx file. Filename - `consent_form.pdf`. Save to the `docs` folder.
 
 ---
  
-### The brief - User testing notes
+## The brief - User testing notes
     
 During the test session one or more members of the group should be taking notes. After the session, you can review the video to make further notes.
     
@@ -122,7 +122,7 @@ For the final submission (SP5) add the video to your `docs` folder. Adjust the f
 
 ---
 
-### The brief - User testing conclusions
+## The brief - User testing conclusions
     
 Using the template provided list the key issues identified by the test session (both positive and negative).
     
