@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Add a description">
+    <meta name="keywords" content="Add some keywords">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Team website Portfolio template</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+
+<body id="top">
+    <p>
+        <a href="#content">Skip to content</a>
+    </p>
+    <!-- 
+            
+            Add your header code here, including your team's logo. 
+            Start with the HTML and CSS
+            in this CodePen: https://codepen.io/wilsondmmu/pen/MGWEzO
+        
+    -->
+    <main id="content">
+
+        <!-- 
+        
+        Write a brief introduction to this page.
+        Why is it here?
+
+-->
+
+        <section class="text-content">
+            <div class="text-content__container">
+                <p>Here is our introduction to the portfolio.</p>
+
+                <!-- 
+    
+    Here is the list of required documents, 
+    split by submission point. 
+    
+    Add your completed documents when finished. 
+
+    UPDATE THIS PAGE AS SUBMISSIONS BECOME DUE.
+
+    You could use the <span> inside the <h3> to style the number/text differently?
+
+-->
+                <h3>Submission point
+                    <span>One</span>
+                </h3>
+                <ul>
+                    <li>
+                        <a href="#">Style guide for this site</a>
+                    </li>
+                    <li>
+                        <a href="#">Client site ideation</a>
+                    </li>
+                    <li>
+                        <a href="#">Client site User Research</a>
+                    </li>
+                    <li>
+                        <a href="#">Client site brief</a>
+                    </li>
+                    <li>
+                        <a href="#">Group peer assessment</a>
+                    </li>
+
+
+                </ul>
+
+                <h3>Submission point
+                    <span>Two</span>
+                </h3>
+                <ul>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+
+                </ul>
+
+                <h3>Submission point
+                    <span>Three</span>
+                </h3>
+                <ul>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+
+                </ul>
+
+                <h3>Submission point
+                    <span>Four</span>
+                </h3>
+                <ul>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+
+                </ul>
+                <h3>Submission point
+                    <span>Five</span>
+                </h3>
+                <ul>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+                    <li>
+                        <a href="#">Document name</a>
+                    </li>
+
+                </ul>
+
+            </div>
+        </section>
+
+
+
+
+
+        <!-- 
+        
+        Review and complete the footer content as required below.
+        The little dots (you can change them to whatever shape you want) are put in a <b> tag so you can style them separately if required. 
+    
+    -->
+        <footer class="site-footer">
+            <div class="site-footer__container">
+                <p>
+                    <a href="#top">Back to top</a>
+                </p>
+                <p>
+                    &copy;
+                    <a href="http://www.mmu.ac.uk/" title="MMU homepage">MMU [year]</a>
+
+                    <b>&middot;</b>
+                    Group 2
+                    <b>&middot;</b>
+                    This is student coursework
+                    <b>&middot;</b>
+                    Tutor
+                    <a href="mailto:r.eskins@mmu.ac.uk">Richard Eskins</a>
+
+                    <b>&middot;</b>
+
+                    <a href="http://validator.w3.org/check?uri=referer" title="W3C HTML Validation Service">Valid HTML</a>
+
+                </p>
+            </div>
+        </footer>
+
+        <!-- 
+            
+            Some javascript to add a class 
+            next to any link that isn't 
+            connected to an actual document 
+        
+        -->
+
+        <script type="text/javascript">
+            // loop through all the links in the page
+            for (var i = 0, l = document.links.length; i < l; i++) {
+                // if the last character is a hash...
+                if (document.links[i].href.slice(-1) == "#") {
+                    // add a class to the link that we can style in CSS
+                    document.links[i].classList.add('not-found');
+
+                }
+            }
+        </script>
+</body>
+
+</html>
