@@ -2,7 +2,7 @@
 
 **Deadline: [date]**
 
-## SP5 The Final Submission includes:
+## SP5 includes:
 
 *SP5 is the final submission. Your completed Guide website plus your portfolio of evidence developed over the previous submission points*.
 
@@ -51,7 +51,7 @@ Create a single document containing your completed checklist and comments docume
 
 ---
     
-### The brief - Cross Browser testing
+## The brief - Cross Browser testing
     
 You must check your guide using a variety of browsers across a variety of devices to test browser compatibility. This means different browsers, versions, operating systems and screen sizes.
     
@@ -153,6 +153,18 @@ Use the [Sprint sheet template document](../../raw/master/templates/template_spr
 ### Output
 
 Format - docx file. Filename - `sprint_sheets.docx`. Save to the `docs` folder.
+
+---
+
+## The brief - Peer assessment
+
+Printed copies of the forms will be supplied in class. They can also be downloaded - [peer assessment template document](../../raw/master/templates/template_peer_assessment.docx).
+    
+### Output
+
+You are required to print, complete, sign and scan the documents for SP5.
+
+Format - docx file. Filename - `peer_assessment.docx`. Save to the `docs` folder.
 
 ---
 
