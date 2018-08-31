@@ -78,7 +78,7 @@ Tutors will guide each team through the web development process via a number of 
 
 - **SP1** - Team website.
 - **SP2** - Research phase.
-- **SP3** - Design&amp; testing.
+- **SP3** - Design &amp; testing.
 - **SP4** - Build &amp; testing.
 - **SP5** - The Guide &amp; Portfolio completed.
 
