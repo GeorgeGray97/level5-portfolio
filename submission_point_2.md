@@ -139,7 +139,7 @@ Create an xlsx spreadsheet of your results.
     
 ### Output
 
-Format - xlsx file. Filename - card_sort.xlsx. Save to the `docs` folder.
+Format - xlsx file. Filename - `card_sort.xlsx`. Save to the `docs` folder.
 
 *A summary of the card sort will be reviewed as part of the SP2 Presentation - it may be incomplete at this stage.  It is marked at SP5.*
 

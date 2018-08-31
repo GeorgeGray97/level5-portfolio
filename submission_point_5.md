@@ -69,7 +69,7 @@ Format - docx file. Filename - `browser_testing.docx`. Save to the `docs` folder
 
 ---
 
-## The brief - User testing report
+## The brief - Usability testing report
     
 A simple summary report detailing your experience of usability testing and what the team learnt from the session including a discussion of the exit survey results. Illustrate with relevant screenshots.
     
@@ -122,7 +122,7 @@ Use the [report template document](../../raw/master/templates/template_quality_a
     
 ### Output
 
-Format - docx file. Filename - quality_audit.docx. Save to the `docs` folder.
+Format - docx file. Filename - `quality_audit.docx`. Save to the `docs` folder.
 
 ---
 

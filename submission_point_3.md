@@ -130,7 +130,7 @@ We are reviewing and providing feedback on the Content Delivery Schedule, your m
 For SP3 we are marking the delivery and content of your presentation.
 
 - Use the [SP3 presentation template document](../../raw/master/templates/template_sp3_presentation.pptx). 
-- Add your team branding to the slides. Format - pptx file. Filename - sp3_presentation.pptx. Save to the `docs` folder and submit via Moodle.
+- Add your team branding to the slides. Format - pptx file. Filename - `sp3_presentation.pptx`. Save to the `docs` folder and submit via Moodle.
 
 ### Marks
 

@@ -94,7 +94,7 @@ Format - docx file. Filename - `consent_form.pdf`. Save to the `docs` folder.
 
 ---
  
-## The brief - User testing notes
+## The brief - Summary - Usability Testing notes
     
 During the test session one or more members of the group should be taking notes. After the session, you can review the video to make further notes.
     
@@ -112,7 +112,7 @@ Format - docx file. Filename - `test_notes.docx`. Save to the `docs` folder.
 
 ---
 
-## The brief - The video
+## The brief - Test session video
     
 We will capture the test session for you (screen, voice and face). After the sessions we will process the videos and make them available as mp4's on Moodle, for you to download. Review the video.
     
