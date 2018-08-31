@@ -114,11 +114,11 @@ Format - docx file. Filename - `test_notes.docx`. Save to the `docs` folder.
 
 ## The brief - Test session video
     
-We will capture the test session for you (screen, voice and face). After the sessions we will process the videos and make them available as mp4's on Moodle, for you to download. Review the video.
-    
-### Output
+We will capture the test session for you (screen, voice and face). After the sessions we will process the videos and make them available on Moodle for you review.
 
-For the final submission (SP5) add the video to your `docs` folder. Adjust the filename to ensure the link on the Portfolio page works.
+Reviewing the video will help you better understand the results of your testing.
+    
+
 
 ---
 
