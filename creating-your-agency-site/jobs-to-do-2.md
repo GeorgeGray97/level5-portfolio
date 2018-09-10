@@ -23,3 +23,5 @@ Use the codepen as a starting point. Think about the photography or illustration
 ## Footer
 
 Web design is all about details. Don't leave links as blue text on a dark background - it's not readable and doesn't look professional. Ask us if you aren't sure how to write the CSS to just 'target' links in the footer.
+
+[Once you've built your site, you need to test it](https://github.com/mmu-webdesign/level5-portfolio/blob/master/creating-your-agency-site/jobs-to-do-3.md)

@@ -26,5 +26,5 @@ When debugging - slow down. Check everything. Be systematic.
 
 ## Once you're happy with the final site
 
-Well done, you've got a site for us to look at. Let us know the URL of the site your group would like to submit for SP1.
+Well done, you've got a site for us to look at. [Head over to the checklist before you submit](https://github.com/mmu-webdesign/level5-portfolio/blob/master/creating-your-agency-site/pre-launch-checklist.md).
 
