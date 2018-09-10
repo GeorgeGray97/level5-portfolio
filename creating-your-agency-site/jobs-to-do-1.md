@@ -1,4 +1,4 @@
-# Jobs to do: part 1
+# Jobs to do, part 1: Designing
 
 Your group will be creating a guide to Manchester as your main project this year.
 
@@ -54,8 +54,6 @@ You also need some code. Here's how to get started.
 [VIDEO]
 
 The HTML doesn't contain all the code you need. However it does contain comments telling you where to find CSS and HTML code that you can modify to fit your needs.
-
-## Typography and colour schemes
 
 
 
