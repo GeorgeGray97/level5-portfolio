@@ -16,7 +16,7 @@ Before you upload your final group site for us to look at, have you:
 ✏️ Checked and completed the footer content  
 ✏️ Once it's uploaded, have you checked your team site in multiple web browsers? (Including phone and tablet browsers)
 
-🔦 ** These are what we will be looking at when we give you feedback on this submission point**
+🔦 **These are what we will be looking at when we give you feedback on this submission point**
 
 😃 If your group works well during this short 'sprint' you should be fine when you come to create your Manchester guide website. 
 
