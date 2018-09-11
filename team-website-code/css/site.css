@@ -9,10 +9,11 @@ html {
 }
 
 body {
-    /* You might want to start by removing margins and padding? */
     margin: 0;
     padding: 0;
-    /* Set a standard typeface */
+    /* You might also want to remove, or tweak, margins and padding on some other elements? */
+
+    /* Some useful bits of typography - add more to this starting point */
     font-size: 100%;
     line-height: 1.35;
     font-family: sans-serif;

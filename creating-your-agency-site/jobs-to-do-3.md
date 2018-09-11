@@ -10,7 +10,7 @@ Here's the standard sort of testing procedure you'd find in most agencies. If yo
 
 You will probably learn more if you try to fix things yourself first. 
 
-When debugging - slow down. Check everything. Be systematic.
+**When debugging - slow down. Check everything. Be systematic.**
 
 1. get some paper
 2. validate your HTML and CSS. Fix any errors.

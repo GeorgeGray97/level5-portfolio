@@ -2,7 +2,7 @@
 
 We would like everyone to build a version of the group site first, then as a group to decide which will be submitted for SP1. 
 
-You can collaborate on a final version that uses work from any or all group members.
+**You can collaborate on a final version that uses work from any or all group members.**
 
 Before you upload your final group site for us to look at, have you:
 
