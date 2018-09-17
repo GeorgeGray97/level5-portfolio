@@ -16,7 +16,11 @@ When you come to style the introduction, could you add some interesting typograp
 
 A 'call to action' or CTA is a really obvious button that you want people to click. Discuss in your group examples of CTAs, e.g. those on [wordpress.com](https://wordpress.com/) or [Netflix](https://www.netflix.com/gb/).
 
-Style the link to your portfolio page as a CTA. You might want to use a contrasting colour or a gradient to make it more 'button like'. Make sure it matches the rest of your site - the balance is to make it stand out but not make it totally different to everything else.
+Style the link to your portfolio page as a CTA: here's some code to start you off:
+
+[Creating a call to action](https://codepen.io/wilsondmmu/pen/GXGVPx)
+
+You might want to use a contrasting colour or a gradient to make it more 'button like'. Make sure it matches the rest of your site - the balance is to make it stand out but not make it totally different to everything else.
 
 ## Team bios
 

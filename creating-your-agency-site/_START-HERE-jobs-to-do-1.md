@@ -44,17 +44,26 @@ Sometimes the (slightly modified) type on its own might be enough - see Pentagra
 
 #### Sketch and experiment
 
-Start prototyping and bringing things together by sketching on paper or using something like Figma.
+Start prototyping and bringing things together by sketching on paper or using something like [Figma](https://www.figma.com/).
 
 #### Colours
 
-Colours can be hard. Use something like []() to generate a colour scheme - you might want to choose an 'anchor' colour (e.g. orange for easyJet, green for Lloyds) and see what other colours work well with that. Again, look at what other websites are doing, and discuss it in the group.
+Colours can be hard. Try some of these sites:
+
+* [Picular to start a discussion](https://picular.co/) 
+* [Colourable to test colour contrast](https://colorable.jxnblk.com/000000/a2a2a2) 
+* [Colour palettes through history](https://colorleap.app/home)
+* [A colour calculator like this one to create a palette](https://www.sessions.edu/color-calculator/) 
+
+to generate a colour scheme - you might want to choose an 'anchor' colour (e.g. orange for easyJet, green for Lloyds) and see what other colours work well with that. Again, look at what other websites are doing, and discuss it in the group.
 
 ## HTML for your agency site
 
 You also need some code. Here's how to get started with the template we've provided.
 
-[VIDEO]
+[Find the code on GitHub](https://github.com/mmu-webdesign/level5-portfolio/tree/master/team-website-code)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xUNQy1U4Aic?rel=0&amp;showinfo=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 The HTML doesn't contain all the code you need. However it does contain comments telling you where to find CSS and HTML code that you can modify to fit your needs.
 
