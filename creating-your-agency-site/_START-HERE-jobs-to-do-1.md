@@ -1,6 +1,6 @@
 # Jobs to do, part 1: Designing
 
-## What are we doing?
+## What are we doing now?
 
 Your group will be creating a guide to Manchester as your main project this year.
 
@@ -12,6 +12,7 @@ Here's an example of what we mean. This is [Pentagram's website](https://www.pen
 
 So here are some of the things your group needs to think about before you get into coding:
 
+* A name for your agency
 * A colour scheme (not just one colour) for your agency site
 * A logo for your agency
 * Typography for your agency
@@ -23,7 +24,7 @@ So here are some of the things your group needs to think about before you get in
 
 A name is an obvious place to start, but don't be too critical at this stage. You want lots of ideas rather than 'prematurely optimising' for one. Let everyone in the group think about it and see if there's one solution that everyone likes.
 
-This is how designers like to think: working out the problem leads to a solution. So in this case, one way of stating the problem is 'we have no name'. But then you can redefine the problem: 'what name works for all of us AND explains to people what we do?'. By putting the problem into different words you can stumble over a solution.
+This is how designers like to think: working out the problem leads to a solution. So in this case, one way of stating the problem is 'we have no name'. But then you can redefine the problem: 'what name works for all of us AND explains to people what we do?'. By putting the problem into different words you might stumble over a solution.
 
 ### Visual inspiration
 
@@ -36,15 +37,15 @@ When you're looking at these sites, screenshot them and analyse what you like ab
 
 #### Find some type and try it out.
 
-You might want to 'audition' some typefaces. Watch the video for how to do it. Try some of your names in different typefaces. What looks good? Sometimes you'll be lucky and the first thing you try will be perfect. Make a note of the typeface name so you can get the code for it later.
+You might want to 'audition' some typefaces in [google fonts](https://fonts.google.com/). There's also a list of [some of the best ones on Typewolf](https://www.typewolf.com/google-fonts). Watch the video for how to do it. Try some of your agency names in different typefaces. What looks good? Sometimes you'll be lucky and the first thing you try will be perfect. Make a note of the typeface name so you can get the code for it later.
 
 #### Do you need a 'logo'?
 
-Sometimes the (slightly modified) type on its own might be enough - see Pentagram's branding above for an example. Sometimes a symbol can help communicate something about your group. What's important is to **get feedback early** from others in the group - don't spend five hours creating a beautiful logo on your own that the rest of the group rejects. Try ways of prototyping quickly (paper?) and ask each other's opinions.
+Sometimes the (slightly modified) type on its own might be enough - see Pentagram's branding above for an example. Sometimes a symbol can help communicate something about your group. What's important is to **get feedback early** from others in the group - don't spend five hours creating a beautiful logo on your own that the rest of the group rejects. Try ways of prototyping quickly (on paper?) and ask each other's opinions.
 
 #### Sketch and experiment
 
-Start prototyping and bringing things together by sketching on paper or using something like [Figma](https://www.figma.com/).
+Start prototyping and bringing things together by sketching on paper or using something like [Figma](https://www.figma.com/), Photoshop or Illustrator.
 
 #### Colours
 
@@ -57,15 +58,14 @@ Colours can be hard. Try some of these sites:
 
 to generate a colour scheme - you might want to choose an 'anchor' colour (e.g. orange for easyJet, green for Lloyds) and see what other colours work well with that. Again, look at what other websites are doing, and discuss it in the group.
 
-## HTML for your agency site
+## Create your style guide
 
-You also need some code. Here's how to get started with the template we've provided.
-
-[Find the code on GitHub](https://github.com/mmu-webdesign/level5-portfolio/tree/master/team-website-code)
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xUNQy1U4Aic?rel=0&amp;showinfo=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-
-The HTML doesn't contain all the code you need. However it does contain comments telling you where to find CSS and HTML code that you can modify to fit your needs.
-
+Download the style guide code and modify it to document your choices. Try and look at the style guide page on different devices to check the colours look good and that the typefaces are readable.
 
 [Head on to the next jobs to do](https://github.com/mmu-webdesign/level5-portfolio/blob/master/creating-your-agency-site/jobs-to-do-2.md)
+
+
+
+
+
+

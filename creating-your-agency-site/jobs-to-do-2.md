@@ -2,6 +2,16 @@
 
 We want everyone to try building the CSS and HTML for your group's site, based on the branding you've already developed. If you all work on the code, it'll be easier to catch bugs and test your site.
 
+## HTML for your agency site
+
+You should start with our template code.
+
+[Find the code on GitHub](https://github.com/mmu-webdesign/level5-portfolio/tree/master/team-website-code)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xUNQy1U4Aic?rel=0&amp;showinfo=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+The HTML doesn't contain all the code you need. However it does contain comments telling you where to find CSS and HTML code that you can modify to fit your needs.
+
 ## Header
 
 Start by copying the code from the codepen in the HTML comment into your page. Now you have to decide (if you have a logo) how to add your logo into the page. You could create a .jpg or use an .svg file.
