@@ -41,7 +41,7 @@ You might want to 'audition' some typefaces in [google fonts](https://fonts.goog
 
 #### Do you need a 'logo'?
 
-Sometimes the (slightly modified) type on its own might be enough - see Pentagram's branding above for an example. Sometimes a symbol can help communicate something about your group. What's important is to **get feedback early** from others in the group - don't spend five hours creating a beautiful logo on your own that the rest of the group rejects. Try ways of prototyping quickly (on paper?) and ask each other's opinions.
+Sometimes a symbol can help communicate something about your group. What's important is to **get feedback early** from others in the group - don't spend five hours creating a beautiful logo on your own that the rest of the group rejects. Try ways of prototyping quickly (on paper?) and ask each other's opinions. You can save the logo as a .jpg, .png or .svg file, depending on how complex it is. Ask us for help about how to prepare your logo.
 
 #### Sketch and experiment
 
@@ -63,9 +63,3 @@ to generate a colour scheme - you might want to choose an 'anchor' colour (e.g. 
 Download the style guide code and modify it to document your choices. Try and look at the style guide page on different devices to check the colours look good and that the typefaces are readable.
 
 [Head on to the next jobs to do](https://github.com/mmu-webdesign/level5-portfolio/blob/master/creating-your-agency-site/jobs-to-do-2.md)
-
-
-
-
-
-
