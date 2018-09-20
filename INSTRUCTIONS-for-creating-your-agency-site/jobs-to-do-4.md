@@ -1,6 +1,6 @@
-# Jobs to do, part 3: Testing
+# Jobs to do, part 4: Testing
 
-## What do we mean by finished?
+## What do we mean by 'finished'?
 
 Once you've got all the content in, and the design on it's way, your group needs to think about testing. Sometimes testing is easy, sometimes it can take longer than the original development time, depending on the complexity of the site.
 
