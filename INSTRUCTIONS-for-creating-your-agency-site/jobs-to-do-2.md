@@ -1,6 +1,10 @@
 # Jobs to do, part 2: Building
 
-We want everyone to try building the CSS and HTML for your group's site, based on the branding you've already developed. If you all work on the code, it'll be easier to catch bugs and test your site.
+Now we have the branding sorted out, let's start building a website.
+
+We'll start with the HTML, get all of that sorted, then add CSS *next week*.
+
+We want everyone to try building the HTML for your group's site. If you all work on and get familiar with code, it'll be easier to catch bugs and test your site.
 
 ## HTML for your agency site
 
@@ -8,38 +12,40 @@ You should start with our template code.
 
 [Find the code on GitHub](https://github.com/mmu-webdesign/level5-portfolio/tree/master/team-website-code)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xUNQy1U4Aic?rel=0&amp;showinfo=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+[Here's how to download code from GitHub](https://www.youtube.com/watch?v=xUNQy1U4Aic). You could also [download the zip file of all the code](https://github.com/mmu-webdesign/level5-portfolio/archive/master.zip).
 
-The HTML doesn't contain all the code you need. However it does contain comments telling you where to find CSS and HTML code that you can modify to fit your needs.
+The HTML doesn't contain all the code you need. However it does contain comments telling you where to find the other bits that you'll be working with.
 
-## Header
+## Adding the rest of the HTML we need for the site
 
-Start by copying the code from the codepen in the HTML comment into your page. Now you have to decide (if you have a logo) how to add your logo into the page. You could create a .jpg or use an .svg file.
+### Add a title and metadata
 
-## Team introduction
+Modify the HTML to add a title tag and metadata - describe your site and think about the kind of things Google would want to know about your agency (e.g. where are you? what do you specialise in?)
 
-How does your group work? How will you convince people you are a professional, trustworthy agency? This is what your copy needs to do. Once your group is happy with the introduction, mark it up and add it to your group's template. 
+### Header HTML
 
-When you come to style the introduction, could you add some interesting typography? How will you connect the introduction to the links to the submission points? Do you need to modify the link text to make it more obvious to your site visitors where the links are going?
+Start by copying [the HTML code from the codepen](https://codepen.io/wilsondmmu/pen/MGWEzO) in the HTML comment into your page. Refresh the browser to make sure the change has worked. Then rewrite the HTML to suit your agency. [Validate your code](http://validator.w3.org/). 
 
-## Call to action
+### Update the team introduction and links
 
-A 'call to action' or CTA is a really obvious button that you want people to click. Discuss in your group examples of CTAs, e.g. those on [wordpress.com](https://wordpress.com/) or [Netflix](https://www.netflix.com/gb/).
+How does your group work? How will you convince people you are a professional, trustworthy agency? This is what your copy needs to do. Once your group is happy with the introduction, mark it up and add it to your group's template.
 
-Style the link to your portfolio page as a CTA: here's some code to start you off:
+Read about [the five submission points in github](https://github.com/mmu-webdesign/level5-portfolio) and summarise each one. What are the benefits of the work you do for each submission point for your potential clients? Use these summaries as the link text for each submission point from your site. So for SP2, you might summarise that as 'We use a range of techniques to make sure the website we create meets your requirements'.
 
-[Creating a call to action](https://codepen.io/wilsondmmu/pen/GXGVPx)
+### Add a call to action
 
-You might want to use a contrasting colour or a gradient to make it more 'button like'. Make sure it matches the rest of your site - the balance is to make it stand out but not make it totally different to everything else.
+Create a link to `portfolio.html` for all the documents you will create throughout the unit - think carefully about the link text you use for this.
 
-## Team bios
+### Write the team bios
 
-Use the codepen as a starting point. Think about the photography or illustration style you're going to use. Are you going to create a corporate atmosphere by having all the portraits in the same style, or be more anarchic and let everyone do their own thing?
+[Add the HTML code from the codepen](https://codepen.io/wilsondmmu/pen/yxyQoE) in the correct place and modify the code to suit your group, adding or removing people as necessary.
 
-## Footer
+### Check the footer
 
-Web design is all about details. Even though the footer is pretty unexciting, you should care about everything on your agency page - don't give your client any reason to mistrust you!
+Read through the footer code in the HTML and make any changes necessary. Web design is all about details. Even though the footer is pretty unexciting, you should care about everything on your agency page - don't give your client any reason to mistrust you!
 
-For example, check your footer links - are they readable against the background? Have you updated the footer code with your group's name?. Ask us if you aren't sure how to write the CSS to just 'target' links in the footer.
+### Validate your code again
 
-[Once you've built your site, you need to test it](https://github.com/mmu-webdesign/level5-portfolio/blob/master/creating-your-agency-site/jobs-to-do-3.md)
+Validate your code and view it in a web browser. As it's just HTML it'll be unstyled, but if you change the size of the browser window, or look at it on your phone, you'll see it's responsive! It's our job next week to not break this...
+
+[So, once you've built your HTML, you need to style it](https://github.com/mmu-webdesign/level5-portfolio/blob/master/creating-your-agency-site/jobs-to-do-3.md)

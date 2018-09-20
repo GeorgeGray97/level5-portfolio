@@ -1,4 +1,4 @@
-# Jobs to do, part 3: Testing
+# Jobs to do, part 3: controlling our content with CSS
 
 ## What do we mean by finished?
 
