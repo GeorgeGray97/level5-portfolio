@@ -10,7 +10,7 @@ We want everyone to try building the HTML for your group's site. If you all work
 
 You should start with our template code.
 
-[Find the code on GitHub](https://github.com/mmu-webdesign/level5-portfolio/tree/master/CODE-for-team-website)
+[Find the code on GitHub](https://github.com/mmu-webdesign/level5-portfolio/tree/master/CODE-for-team-website/)
 
 [Here's how to download code from GitHub](https://www.youtube.com/watch?v=xUNQy1U4Aic). You could also [download the zip file of all the code](https://github.com/mmu-webdesign/level5-portfolio/archive/master.zip).
 
