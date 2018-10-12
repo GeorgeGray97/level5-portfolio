@@ -48,4 +48,4 @@ Read through the footer code in the HTML and make any changes necessary. Web des
 
 Validate your code and view it in a web browser. As it's just HTML it'll be unstyled, but if you change the size of the browser window, or look at it on your phone, you'll see it's responsive! It's our job next week to not break this...
 
-[So, once you've built your HTML, you need to style it](https://github.com/mmu-webdesign/level5-portfolio/blob/master/creating-your-agency-site/jobs-to-do-3.md)
+[So, once you've built your HTML, you need to style it](https://github.com/mmu-webdesign/level5-portfolio/blob/master/INSTRUCTIONS-for-creating-your-agency-site/jobs-to-do-3.md)
