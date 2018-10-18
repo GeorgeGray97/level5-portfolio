@@ -59,6 +59,10 @@ Think about the photography or illustration style you're going to use. Are you g
 
 **Check the bio section on small and wide screens** - have a read through the pasted code to see how the media queries add and remove CSS.
 
+### Style the 'skip to content' link
+
+[Use the code at this codepen](https://codepen.io/wilsondmmu/pen/QZrLxZ) to create a skip link that appears as the visitor tabs onto the page. Clicking on the link or pressing return when it is visible will scroll the visitor to the main content of the site, starting with the introductory paragraph.
+
 ### Check the details
 
 Go through and look for details that you can style. For example, check your footer links - are they readable against the background? Have you updated the footer code with your group's name?. Ask us if you aren't sure how to write the CSS to just 'target' links in the footer.
@@ -67,7 +71,7 @@ When you come to style the introduction, could you add some interesting typograp
 
 ## What's next
 
-Well done, you're well on the way. Scroll up and down your site a few times. Is there anything that looks wrong, or needs more work? Be critical about your work, and discuss it in your group.
+Well done, you're well on the way. Scroll up and down your site a few times. Tab through your site to check it's usable with just the keyboard. Is there anything that looks wrong, or needs more work? Be critical about your work, and discuss it in your group.
 
 [Now you need to test and check your work](https://github.com/mmu-webdesign/level5-portfolio/blob/master/INSTRUCTIONS-for-creating-your-agency-site/jobs-to-do-4.md).
 
