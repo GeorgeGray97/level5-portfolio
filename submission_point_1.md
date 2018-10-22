@@ -1,4 +1,4 @@
-# Submission Point 1 - The Guide 
+# Submission Point 1 - The Team website 
 
 Download - [SP1 Marksheet](../../raw/master/support/sp1-marksheet.docx) 
 
