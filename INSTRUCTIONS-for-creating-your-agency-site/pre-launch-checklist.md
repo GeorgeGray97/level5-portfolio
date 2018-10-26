@@ -11,7 +11,7 @@ Before you upload your final group site for us to look at, have you:
 ✏️ Written an introduction to your team?  
 ✏️ Styled the list of links for each Submission point?  
 ✏️ Created a 'call to action' to the portfolio page (the portfolio page will eventually form the list of documents you need to have in your portfolio for your final submission)  
-✏️ Added team member profiles 
+✏️ Added team member profiles  
 ✏️ Added optimised team member images  
 ✏️ Checked and completed the footer content  
 ✏️ Added your style guide page to your submission  
