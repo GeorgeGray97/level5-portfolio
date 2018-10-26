@@ -84,7 +84,7 @@ Using the [Team Website html template](https://github.com/mmu-webdesign/level5-p
 
 Completed team website (as described above).
     
-*The team website is marked at SP1 - see marksheet*
+*[The team website is marked at SP1 - see marksheet](../../raw/master/support/sp1-marksheet.pdf)*
 
 ---
 
