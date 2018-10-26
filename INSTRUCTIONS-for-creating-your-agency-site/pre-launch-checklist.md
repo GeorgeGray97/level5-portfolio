@@ -13,9 +13,10 @@ Before you upload your final group site for us to look at, have you:
 ✏️ Created a 'call to action' to the portfolio page (the portfolio page will eventually form the list of documents you need to have in your portfolio for your final submission)  
 ✏️ Added team member profiles 
 ✏️ Added optimised team member images  
-✏️ Checked and completed the footer content
-✏️ Added your style guide page to your submission
-✏️ Once it's uploaded, have you checked your team site in multiple web browsers? (Including phone and tablet browsers)
+✏️ Checked and completed the footer content  
+✏️ Added your style guide page to your submission  
+✏️ Once it's uploaded, have you checked your team site in multiple web browsers? (Including phone and tablet browsers)  
+✏️ Have you checked your site for image optimisation and broken images in the chrome/firefox web developer tools?
 
 🔦 **These are what we will be looking at when we give you feedback on this submission point**
 
