@@ -43,7 +43,7 @@ Scan any resulting documents (photograph if too big) and save as a single pdf fi
     
 User Research - Undertake some initial user research with friends, family and fellow students to better understand what people would want from the guide you are proposing. Use the [BBC User Research template](../../raw/master/templates/template_user_research.docx) document.
     
-Each team member should develop 4 or 5 user profiles. Note - these are not Personas (developed later). These should be based on real people.
+Each team member should develop 2 or 3 user profiles. Note - these are not Personas (developed later). These should be based on real people.
 
 You are trying to get the thoughts of 'real' people about the type of product you are about to build (and their experience of similar products).
     
