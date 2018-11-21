@@ -87,9 +87,9 @@ Format - docx file. Filename - `competitor_analysis.docx`. Save to the `docs` fo
     
 ## The brief - Personas
     
-User Personas - Create 3 user personas based on the user types your research indicates you might expect to use your group’s web site.
+User Personas - Create 3 user personas based on the user types your research indicates you might expect to use your guide.
     
-One must be an international visitor to your site
+One must be an international visitor to your site (maybe one disabled?)
     
 We prefer you to be creative and develop your own personas over using a template site. If you use a template make sure you customise the output.
     
