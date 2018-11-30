@@ -133,7 +133,7 @@ Format - docx file. Filename - `ia_report.docx`. Save to the `docs` folder.
 
 ## The brief - Open Card Sorting
     
-Card Sort Results - Using paper cards undertake an Open Card sort as (illustrated in class) as a group to get an initial understanding. Then carry out the sort with UserZoom on at least 10 participants. Discuss and illustrate the results in your IA Report.
+Card Sort Results - Using post-its undertake an Open Card sort as (illustrated in class) as a group to get an initial understanding. Then carry out the sort with a free [Optimal Sort](https://www.optimalworkshop.com) account on at least 10 participants. Discuss and illustrate the results in your IA Report.
     
 Create an xlsx spreadsheet of your results.
     
@@ -147,7 +147,7 @@ Format - xlsx file. Filename - `card_sort.xlsx`. Save to the `docs` folder.
 
 ## The brief - Tree Jack
     
-Tree Jack Results - Test your chosen architecture by creating a Tree Jacking test in UserZoom. Test on at least 10 participants. Discuss and illustrate the results in your IA Report.
+Tree Jack Results - Test your chosen architecture by creating a Tree Jacking test in [Optimal Sort](https://www.optimalworkshop.com). Test on at least 10 participants. Discuss and illustrate the results in your IA Report.
     
 Create an xlsx spreadsheet of your results.
     
