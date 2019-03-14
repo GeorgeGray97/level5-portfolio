@@ -96,7 +96,7 @@ Format - docx file. Filename - `consent_form.pdf`. Save to the `docs` folder.
 
 ## (Post test) exit survey
 
-Create a simple exit survey (5 or six questions) to get further feedback from your test candidate. 
+Create a simple exit survey (5 or 6 questions) to get further feedback from your test candidate. 
 
 The survey should be given to the test candidate (in paper form) at the end of the test session. Ask them to leave the room and to complete the survey before they leave.
 
