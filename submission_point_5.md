@@ -79,6 +79,8 @@ Write a summary report detailing your experience of usability testing during thi
     
 Discuss and provide evidence of any test sessions beyond the SP4 session.
 
+**Please note**: Any further test sessions should be managed in a similar way with test candidates signing a consent form and being informed of their rights. Include copies of any additional consent forms with this report.
+
 500 words (+/- 10%).
     
 Use the [usability report template document](../../raw/master/templates/template_usability_report.docx).
