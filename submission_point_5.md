@@ -8,11 +8,11 @@
 
 1. **Your guide** - the project web site.
 
-    -  [Download - SP5 - The Guide - Marksheet](../../raw/master/support/sp2-guide-marksheet.docx)
+    -  [Download - SP5 - The Guide - Marksheet](../../raw/master/support/sp5-website-marksheet.docx)
 
 1. **Team website** - including all linked documents (final versions). 
 
-    - [Download - SP5 The Team Website - Marksheet](../../raw/master/support/sp2-portfolio-marksheet.docx) 
+    - [Download - SP5 The Team Website - Marksheet](../../raw/master/support/sp5-portfolio-marksheet.docx) 
 
 
 
