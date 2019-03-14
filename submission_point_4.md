@@ -93,8 +93,18 @@ Format - docx file. Filename - `consent_form.pdf`. Save to the `docs` folder.
 *Ensure a copy is in place here for SP5*. 
 
 ---
+
+## (Post test) exit survey
+
+Create a simple exit survey (5 or six questions) to get further feedback from your test candidate. 
+
+The survey should be given to the test candidate (in paper form) at the end of the test session. Ask them to leave the room and to complete the survey before they leave.
+
+Use the results from the survey as part of your *Usability test session conclusions* document.
+
+---
  
-## The brief - Summary - Usability Testing notes
+## The brief - Summary - Usability Testing session notes
     
 During the test session one or more members of the group should be taking notes. After the session, you can review the video to make further notes.
     
@@ -122,9 +132,9 @@ Reviewing the video will help you better understand the results of your testing.
 
 ---
 
-## The brief - User testing conclusions
+## The brief - Usability test session conclusions
     
-Using the template provided list the key issues identified by the test session (both positive and negative).
+Using the template provided list the key issues identified by this test session (both positive and negative).
     
 List any remedial actions required.
     

@@ -10,11 +10,13 @@
 
     -  [Download - SP5 - The Guide - Marksheet](../../raw/master/support/sp5-website-marksheet.docx)
 
-1. **Team website** - including all linked documents (final versions). 
+1. **The portfolio** - including all linked documents (final versions) via the team website. 
 
-    - [Download - SP5 The Team Website - Marksheet](../../raw/master/support/sp5-portfolio-marksheet.docx) 
+    - [Download - SP5 The Portfolio - Marksheet](../../raw/master/support/sp5-portfolio-marksheet.docx) 
 
+## Final items
 
+All of your documents (including those below) are delivered via the portfolio page of a final version of your team website. Use the parotfolio marksheet to ensure you have all of the required documents in place before submission.
 
 ## Testing the site to ensure quality
 
