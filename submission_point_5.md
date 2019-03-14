@@ -73,9 +73,11 @@ Format - docx file. Filename - `browser_testing.docx`. Save to the `docs` folder
 
 ## The brief - Usability testing report
     
-A simple summary report detailing your experience of usability testing and what the team learnt from the session including a discussion of the exit survey results. Illustrate with relevant screenshots.
+It is presumed that you will be undertaking further testing after the SP4 test session as your site evolves. In fact you may have done earlier test sessions on prototypes etc.
+
+Write a summary report detailing your experience of usability testing during this project and what the team learnt, changes implemented etc. Illustrate with relevant screenshots.
     
-Discuss and provide evidence of any further test sessions.
+Discuss and provide evidence of any test sessions beyond the SP4 session.
 
 500 words (+/- 10%).
     
