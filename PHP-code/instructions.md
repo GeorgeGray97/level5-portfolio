@@ -119,7 +119,7 @@ First, we have to [create a database in your 34sp control panel](https://account
 
 We are now going to create a file and upload it to your webspace, which will act as the starting point for you to cut and paste what you need into the template HTML pages you have created.
 
-The code you need is saved as a separate page in this repository. You will need a working database, the username, password, server address, database name and database table name to make this file work correctly.
+[The code you need is saved as a separate page in this repository](https://github.com/mmu-webdesign/level5-portfolio/blob/master/PHP-code/database_test.php). Click 'raw' in the top nav to just get the code to cut and paste. You will need a working database, the username, password, server address, database name and database table name to make this file work correctly.
 
 Add the relevant details to your own version of the file in the repository, save the updated file as `database_test.php` and save it to the `httpdocs` folder of 34sp.
 
