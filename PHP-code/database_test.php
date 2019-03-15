@@ -10,6 +10,8 @@ $password = "[your db password]"; // the password you specified when you created
 $db_name = "[your db name]"; // the database name you specified when you created the database
 $table_name ="[your db table name]"; // the table name you specified when you created the SQL in SQLizer
 
+// STOP EDITING HERE: Upload this file to 34sp.com now
+
 // Create connection
 $conn = mysqli_connect($server_name, $user_name, $password, $db_name);
 // Check connection
