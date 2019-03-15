@@ -22,7 +22,7 @@ include('includes/header.php);
 ?>
 ```
 
-then the included `header.php` ` will need a line like this in the HTML:
+then the included `header.php` will need a line like this in the HTML:
 
 ```
 <html>
@@ -147,11 +147,11 @@ Use this snippet of code from the `database_test.php` file:
 
 // your connection information goes here
 
-$server_name = "46.183.13.53"; // the IP address, which is the third item in the 34sp phpMyAdmin login form
-$user_name = "cheeseuser"; // the username you specified when you created the database
-$password = "cheese"; // the password you specified when you created the database
-$db_name = "cheese"; // the database name you specified when you created the database
-$table_name ="cheese_table"; // the table name you specified when you created the SQL in SQLizer
+$server_name = "[IP address]"; // the IP address, which is the third item in the 34sp phpMyAdmin login form
+$user_name = "[user name]"; // the username you specified when you created the database
+$password = "[password]"; // the password you specified when you created the database
+$db_name = "[database name]"; // the database name you specified when you created the database
+$table_name ="[table name]"; // the table name you specified when you created the SQL in SQLizer
 
 // Create connection
 $conn = mysqli_connect($server_name, $user_name, $password, $db_name);
